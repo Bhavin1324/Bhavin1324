@@ -28,7 +28,7 @@
 
 
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:14px;" />
-<img align="left" alt="Express.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="margin-right:14px; background:#f5f5f5; padding: 0px 2px; border-radius:2px" />
+<img align="left" alt="Express.js" width="30px" src="./img/express.png" style="padding-right:14px"/>
 <img align="left" alt="csharp" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:14px;" />
 
 
@@ -36,7 +36,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:14px;" />
 <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:14px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:14px;" />
-<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin-right:14px; background:#f5f5f5; border-radius:2px"/>
+<img align="left" alt="Github" width="30px" src="./img/github.png" style="margin-right:14px"/>
 
 <br>
 
