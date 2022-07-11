@@ -37,8 +37,8 @@
 <img align="left" alt="php" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:14px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:14px;" />
 <img align="left" alt="Github" width="30px" src="./img/github.png" style="margin-right:14px"/>
-<br>
-<br>
+<br/>
+<br/>
 
 ### Small works and practices
 - [News app](https://bhavin1324.github.io/NewsApp/)
