@@ -32,6 +32,7 @@
 
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin:6px 16px 6px 0px;" />
 <img align="left" alt="Express.js" width="30px" src="./img/express.png" style="margin:6px 16px 6px 0px"/>
+<img align="left" alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="margin:6px 16px 6px 0px"/>
 <img align="left" alt="csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin:6px 16px 6px 0px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin:6px 16px 6px 0px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin:6px 16px 6px 0px;" />
