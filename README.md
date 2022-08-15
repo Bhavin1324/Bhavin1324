@@ -35,11 +35,11 @@
 <img align="left" alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="margin:8px 16px 8px 0px"/>
 <img align="left" alt="csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin:8px 16px 8px 0px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin:8px 16px 8px 0px;"/>
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin:6px 16px 8px 0px;"/>
-<img align="left" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin:6px 16px 6px 0px;" />
-<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin:6px 16px 6px 0px;" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:6px 16px 6px 0px;" />
-<img align="left" alt="Github" width="30px" src="./img/github.png" style="margin:6px 16px 6px 0px"/>
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin:8px 16px 8px 0px;"/>
+<img align="left" alt="php" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="margin:8px 16px 8px 0px;" />
+<img align="left" alt="java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin:8px 16px 8px 0px;" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:8px 16px 8px 0px;" />
+<img align="left" alt="Github" width="30px" src="./img/github.png" style="margin:8px 16px 8px 0px"/>
 <br/>
 
 <br/>
