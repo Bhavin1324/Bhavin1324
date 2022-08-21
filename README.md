@@ -3,10 +3,9 @@
 ## I'm a Student at Veer Narmad South Gujarat University
 
 - 🔭 I'm passionate about creating web applications and exploring more about Full-Stack Development.
-- 🌱 I’m currently learning .NET Framework
+- 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate with other developers
 - 👨‍💻 Interested in learning ***Blockchain Technology***, ***Cloud*** and ***IoT***
-- 🥅 2022 Goals: Learn more about web3
 
 ### Connect with me:
 
