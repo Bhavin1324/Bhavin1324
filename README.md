@@ -3,7 +3,7 @@
 ## I'm a Student at Veer Narmad South Gujarat University
 
 - 🔭 I'm passionate about creating web applications and exploring more about Full-Stack Development.
-- 🌱 I’m currently learning .NET
+- 🌱 I’m leraning **Full stack develeopment**
 - 👯 I’m looking to collaborate with other developers
 - 👨‍💻 Interested in learning ***Blockchain Technology***, ***Cloud*** and ***IoT***
 
@@ -32,6 +32,7 @@
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="margin:8px 16px 8px 0px;" />
 <img align="left" alt="Express.js" width="30px" src="./img/express.png" style="margin:6px 16px 6px 0px"/>
 <img align="left" alt="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="margin:8px 16px 8px 0px"/>
+<img align="left alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="margin:8px 16px 8px 0px"/>
 <img align="left" alt="csharp" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin:8px 16px 8px 0px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="margin:8px 16px 8px 0px;"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin:8px 16px 8px 0px;"/>
