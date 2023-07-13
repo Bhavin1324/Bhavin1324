@@ -52,3 +52,4 @@
 - [E-voting basic landing page](https://bhavin1324.github.io/evoting/)
 - [Lazy loading using Intersection Observer](https://bhavin1324.github.io/LazyLoading/)
 - [QR code generator](https://bhavin1324.github.io/QR_Generator/)
+- [Interrior static website landing page](https://bhavin1324.github.io/Interrior/)
