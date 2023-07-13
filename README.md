@@ -46,7 +46,7 @@
 
 <br/>
 
-### Small work and practices
+### Small practice works
 - [News app](https://bhavin1324.github.io/NewsApp/)
 - [Note app](https://bhavin1324.github.io/QuickNote/)
 - [E-voting basic landing page](https://bhavin1324.github.io/evoting/)
