@@ -5,7 +5,6 @@
 - 🔭 I'm passionate about creating web applications and exploring more about Full-Stack Development.
 - 🌱 I’m leraning **Web and mobile application development**
 - 👯 I’m looking to collaborate with other developers
-- 👨‍💻 Interested in learning ***Blockchain Technology***, ***Cloud*** and ***IoT***
 
 ### Connect with me:
 
