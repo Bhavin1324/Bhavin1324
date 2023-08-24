@@ -45,10 +45,11 @@
 
 ### Git states
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavin1324&theme=dark&border_radius=4.6&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavin1324&theme=dark&border_radius=4.6&background=0d1117)](https://git.io/streak-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin1324&layout=compact&theme=dark&background=0d1117)](https://github.com/Bhavin1324/github-readme-stats)
+![Bhavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavin1324&theme=github_dark&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin1324&layout=compact&theme=github_dark&background=0d1117)](https://github.com/Bhavin1324/github-readme-stats) 
 
 ### Small practice works
 - [News app](https://bhavin1324.github.io/NewsApp/)
