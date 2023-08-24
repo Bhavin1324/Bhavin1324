@@ -3,7 +3,7 @@
 ## I'm a Student at Veer Narmad South Gujarat University
 
 - 🔭 I'm passionate about creating web applications and exploring more about Full-Stack Development.
-- 🌱 I’m leraning **Web and mobile application development**
+- 🌱 I’m currently leraning **Microservices Architecture**
 - 👯 I’m looking to collaborate with other developers
 
 ### Connect with me:
@@ -43,7 +43,12 @@
 
 <br/>
 
-<br/>
+### Git states
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bhavin1324&theme=dark&border_radius=4.6&background=0d1117)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavin1324&layout=compact&theme=dark&background=0d1117)](https://github.com/Bhavin1324/github-readme-stats)
+
 
 ### Small practice works
 - [News app](https://bhavin1324.github.io/NewsApp/)
